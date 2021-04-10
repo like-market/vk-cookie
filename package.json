@@ -1,0 +1,31 @@
+{
+  "name": "vk-cookie",
+  "version": "1.0.0",
+  "description": "Get cookies from the vk.com account ",
+  "main": "app.js",
+  "dependencies": {
+    "firefox-modheader": "^1.0.6",
+    "selenium-webdriver": "^4.0.0-beta.2",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/like-market/vk-cookie.git"
+  },
+  "keywords": [
+    "vk",
+    "cookie",
+    "selenium",
+    "docker"
+  ],
+  "author": "gistrec",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/like-market/vk-cookie/issues"
+  },
+  "homepage": "https://github.com/like-market/vk-cookie#readme"
+}
